@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		495356EA1D6616490070939E /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 495356E91D6616490070939E /* main.c */; };
+		495356EA1D6616490070939E /* sendmoremoney.c in Sources */ = {isa = PBXBuildFile; fileRef = 495356E91D6616490070939E /* sendmoremoney.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		495356E61D6616490070939E /* Algoritmo Genetico */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Algoritmo Genetico"; sourceTree = BUILT_PRODUCTS_DIR; };
-		495356E91D6616490070939E /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		495356E91D6616490070939E /* sendmoremoney.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = sendmoremoney.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		495356E81D6616490070939E /* Algoritmo Genetico */ = {
 			isa = PBXGroup;
 			children = (
-				495356E91D6616490070939E /* main.c */,
+				495356E91D6616490070939E /* sendmoremoney.c */,
 			);
 			path = "Algoritmo Genetico";
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				495356EA1D6616490070939E /* main.c in Sources */,
+				495356EA1D6616490070939E /* sendmoremoney.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,6 +239,7 @@
 				495356EF1D6616490070939E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
